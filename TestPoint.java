@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class TestPoint {
 
-
 public static void main(String[] args) {
        // TODO Auto-generated method stub
        System.out.println("Program will calculate the distance between two points");
