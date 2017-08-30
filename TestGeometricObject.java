@@ -6,7 +6,6 @@ public class TestGeometricObject {
 		Circle CO = new Circle(4);
 		Rectangle RO = new Rectangle(5, 5);
 		
-
 		System.out.println("Circle :");
 		System.out.println(CO.toString());
 		System.out.println("Its Area: " + CO.getArea());
