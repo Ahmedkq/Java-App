@@ -8,10 +8,10 @@ public class TestVehicle {
 		Tank tt = new Tank(2011, 7000.56, 4.56);
 
 		System.out.println(c.toString());
-
 		System.out.println(t.toString());
-
 		System.out.println(tt.toString());
 
 	}
 }
+
+
